@@ -1,0 +1,10 @@
+Package: jaspackage
+Type: Package
+Title: Birds in Safari
+Version: 1.0
+Author: Jasmine Corgelas
+Maintainer: The package maintainer <corgelasj@usf.edu>
+Description: New Functions for Finding the Average Number of Birds in an Area of the Safari
+License: GNU
+Encoding: UTF-8
+LazyData: true
